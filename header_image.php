@@ -1,3 +1,1 @@
-<div class="container">
-	<img src="assets/img/logo.png" class="img-responsive">
-</div>
+	<img src="assets/img/logo11.jpg" class="img-responsive logo" width="100%" >

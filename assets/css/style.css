@@ -2,3 +2,18 @@
 	height: 60%;
 	margin-top: -10px	
 }
+
+body {
+	background-color: #e9ffee;
+}
+
+.logo{
+	margin-top: -10px
+}
+
+.light-color{
+	color: #e9ffee;
+}
+hr{
+	border-color: #123455
+}

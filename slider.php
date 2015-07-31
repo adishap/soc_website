@@ -8,11 +8,11 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner slider" role="listbox">
     <div class="item active">
-      <img src="assets/img/slider1.jpg" alt="Slider 1">
+      <img src="assets/img/slider1.jpg" alt="Slider 1" width="100%">
     </div>
 
     <div class="item">
-      <img src="assets/img/slider2.jpeg" alt="Slider 1">
+      <img src="assets/img/slider2.jpeg" alt="Slider 1" width="100%">
     </div>
 
   </div>
